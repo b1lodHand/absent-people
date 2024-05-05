@@ -16,9 +16,9 @@ Well, this is a it package. This means that you can install it directly with the
 
 All you have to do is selct the option above and paste this into the text field that will show up:
 
-'''
-https://github.com/b1lodHand/absent-people.git
-'''
+```
+[https://github.com/b1lodHand/absent-attributes.git](https://github.com/b1lodHand/absent-people.git)
+```
 
 >[!TIP]
 >To open up the **Package Manager**, you should go to **"Window/Package Manager"** option on the Unity's toolbar and just press it.
