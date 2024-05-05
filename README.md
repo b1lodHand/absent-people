@@ -21,4 +21,4 @@ To open up the **Package Manager**, you should go to **"Window/Package Manager"*
 Well, you've done it! Like I said, this one is pretty simple to setup and also pretty easy to use. I hope it helps you throughout your journey of game development, buddy. Have a nice day!
 
 >[!TIP]
->You can create a new person profile via right clicking any folder on the project window and clicking the menu option **"absencee_/Person"**. You can find it at the very top for the menu.
+>You can create a new person profile via right clicking any folder on the project window and clicking the menu option **"Create/absencee_/Person"**. You can find it at the very top for the menu.
