@@ -17,7 +17,7 @@ Well, this is a it package. This means that you can install it directly with the
 All you have to do is selct the option above and paste this into the text field that will show up:
 
 ```
-(https://github.com/b1lodHand/absent-people.git)
+https://github.com/b1lodHand/absent-people.git
 ```
 
 >[!TIP]
