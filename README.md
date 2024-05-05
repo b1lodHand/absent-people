@@ -30,7 +30,7 @@ Okay, now I suppose you have the package installed. Now the only thing you need 
 >[!CAUTION]
 >Person script also has a custom editor script. So if you want to modify the person script itself, you should also modify the one for the custom editor.
 
->[!TIP]
+>[!NOTE]
 >You can create a new person via: **"Create/absencee_/Person"** menu option in the project window. You can find it at the very top of the menu.
 
 ## Wrapping up
