@@ -8,7 +8,7 @@ Hi there! You just stepped on one of my beautiful tools. This one is pretty smal
 
 First of all, there are no prerequisites. This package does not depend on anything else. Installing the package itself will be enough to get it working.
 
-## Installing
+### Installing
 
 Well, this is a it package. This means that you can install it directly with the **Package Manager**.
 
@@ -23,7 +23,7 @@ https://github.com/b1lodHand/absent-people.git
 >[!TIP]
 >To open up the **Package Manager**, you should go to **"Window/Package Manager"** option on the Unity's toolbar and just press it.
 
-## Usage
+### Usage
 
 Okay, now I suppose you have the package installed. Now the only thing you need to know is that the person profiles are stored in **scriptable objects**. And that's it.
 
