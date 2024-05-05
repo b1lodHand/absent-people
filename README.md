@@ -28,7 +28,7 @@ https://github.com/b1lodHand/absent-people.git
 Okay, now I suppose you have the package installed. Let me give you some more information about the person profiles. These profiles are stored in **scriptable objects** so that you can use them in nearly every system you will write for your game. They also have their custom editors. So if you want to modify the person script itself, you should also modify the custom editor script.
 
 >[!TIP]
->You can create a new person profile via right clicking any folder on the project window and clicking the menu option **"Create/absencee_/Person"**. You can find it at the very top for the menu.
+>You can create a new person via: **"Create/absencee_/Person"** menu option in the project window. You can find it at the very top of the menu.
 
 ## Wrapping up
 
