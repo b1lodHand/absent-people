@@ -2,7 +2,7 @@
 
 ## About
 
-Hi there! You just stepped on one of my beautiful tools. This one is pretty small and lightweight actually. It's just a small package that lets you create people profiles for your game. Those profiles are stored in scriptable objects so you that you can use them in nearly every system you will write for your game. So, let's see how to get it working.
+Hi there! You just stepped on one of my beautiful tools. This one is pretty small and lightweight actually. It's just a small package that lets you create people profiles for your game. Before going further, let's see how to get it working.
 
 ## Getting Started
 
@@ -23,9 +23,13 @@ https://github.com/b1lodHand/absent-people.git
 >[!TIP]
 >To open up the **Package Manager**, you should go to **"Window/Package Manager"** option on the Unity's toolbar and just press it.
 
-## Wrapping up
+## Usage
 
-Well, you've done it! Like I said, this one is pretty simple to setup and also pretty easy to use. I hope it helps you throughout your journey of game development, buddy. Have a nice day!
+Okay, now I suppose you have the package installed. Let me give you some more information about the person profiles. These profiles are stored in **scriptable objects** so that you can use them in nearly every system you will write for your game. They also have their custom editors. So if you want to modify the person script itself, you should also modify the custom editor script.
 
 >[!TIP]
 >You can create a new person profile via right clicking any folder on the project window and clicking the menu option **"Create/absencee_/Person"**. You can find it at the very top for the menu.
+
+## Wrapping up
+
+Well, you've done it! Like I said, this one is pretty simple to setup and also pretty easy to use. I hope it helps you throughout your journey of game development, buddy. Have a nice day!
