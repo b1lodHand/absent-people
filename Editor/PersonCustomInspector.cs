@@ -3,10 +3,10 @@ using UnityEditor.UIElements;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace com.absence.personsystem.Editor
+namespace com.absence.personsystem.editor
 {
     [CustomEditor(typeof(Person))]
-    public class PersonCustomInspector : UnityEditor.Editor
+    public class PersonCustomInspector : Editor
     {
         private static readonly string StyleSheetPath = "Packages/com.absence.personsystem/Editor/uss/PersonCustomInspector.uss";
 
@@ -30,7 +30,7 @@ namespace com.absence.personsystem.Editor
             ObjectField iconField = new ObjectField("Icon");
             iconField.allowSceneObjects = false;
             iconField.objectType = typeof(Sprite);
-            iconField.bindingPath = "Icon";
+            iconField.bindingPath = "m_icon";
             iconField.Bind(serializedObject);
             iconField.AddToClassList("field");
             iconField.AddToClassList("iconField");
@@ -38,14 +38,14 @@ namespace com.absence.personsystem.Editor
 
             TextField nameField = new TextField("Name");
             nameField.multiline = false;
-            nameField.bindingPath = "Name";
+            nameField.bindingPath = "m_name";
             nameField.Bind(serializedObject);
             nameField.AddToClassList("field");
             nameField.labelElement.name = "label";
 
             TextField descriptionField = new TextField("Description");
             descriptionField.multiline = true;
-            descriptionField.bindingPath = "Description";
+            descriptionField.bindingPath = "m_description";
             descriptionField.Bind(serializedObject);
             descriptionField.AddToClassList("field");
             descriptionField.AddToClassList("descriptionField");

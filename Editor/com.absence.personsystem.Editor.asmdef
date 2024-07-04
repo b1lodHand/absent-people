@@ -1,6 +1,6 @@
 {
-    "name": "com.absence.personsystem.Editor",
-    "rootNamespace": "com.absence.personsystem.Editor",
+    "name": "com.absence.personsystem.editor",
+    "rootNamespace": "com.absence.personsystem.editor",
     "references": [
         "GUID:b6e1aae17f62f2d40842ce223b185049"
     ],
